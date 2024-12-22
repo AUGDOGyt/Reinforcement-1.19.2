@@ -19,6 +19,7 @@ public class DisorientedEffect extends StatusEffect {
         }
     }
 
+    @Override
     public boolean canApplyUpdateEffect(int duration, int amplifier) {
         if (this == CustomEffects.DISORIENTED) {
             int i = 50 >> amplifier;
