@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "r  ",
+    " R ",
+    "  R"
+  ],
+  "key": {
+    "r": {
+      "item": "reinforcement:reinforced_netherite_ingot"
+    },
+    "R": {
+      "item": "reinforcement:reinforced_handle"
+    }
+  },
+  "result": {
+    "item": "reinforcement:reinforced_netherite_spear",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    " R ",
+    "  R"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "R": {
+      "item": "reinforcement:reinforced_handle"
+    }
+  },
+  "result": {
+    "item": "reinforcement:wooden_spear",
+    "count": 1
+  }
+}

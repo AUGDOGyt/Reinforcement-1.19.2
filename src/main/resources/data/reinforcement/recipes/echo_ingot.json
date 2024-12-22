@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#A#",
+    "iEi",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "reinforcement:echo_ingot",
+    "count": 1
+  }
+}

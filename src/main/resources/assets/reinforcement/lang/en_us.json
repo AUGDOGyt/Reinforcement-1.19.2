@@ -1,0 +1,35 @@
+{
+  "item.reinforcement.wooden_spear": "Wooden Spear",
+  "item.reinforcement.stone_spear": "Stone Spear",
+  "item.reinforcement.iron_spear": "Iron Spear",
+  "item.reinforcement.gold_spear": "Gold Spear",
+  "item.reinforcement.diamond_spear": "Diamond Spear",
+  "item.reinforcement.netherite_spear": "Netherite Spear",
+  "item.reinforcement.reinforced_netherite_spear": "Reinforced Netherite Spear",
+
+  "item.reinforcement.iron_sabre": "Iron Sabre",
+  "item.reinforcement.gold_sabre": "Gold Sabre",
+  "item.reinforcement.diamond_sabre": "Diamond Sabre",
+  "item.reinforcement.netherite_sabre": "Netherite Sabre",
+  "item.reinforcement.reinforced_netherite_sabre": "Reinforced Netherite Sabre",
+
+  "item.reinforcement.iron_mace": "Iron Mace",
+  "item.reinforcement.gold_mace": "Gold Mace",
+  "item.reinforcement.diamond_mace": "Diamond Mace",
+  "item.reinforcement.netherite_mace": "Netherite Mace",
+  "item.reinforcement.reinforced_netherite_mace": "Reinforced Netherite Mace",
+
+  "itemGroup.reinforcement.reinforcement": "Reinforcement",
+
+  "item.reinforcement.reinforced_plank": "Reinforced Plank",
+  "item.reinforcement.reinforced_stick": "Reinforced Stick",
+  "item.reinforcement.reinforced_handle": "Reinforced Handle",
+  "item.reinforcement.reinforced_netherite_ingot": "Reinforced Netherite Ingot",
+
+  "item.reinforcement.echo_ingot": "Echo Ingot",
+  "item.reinforcement.echo_core": "Echo Core",
+  "item.reinforcement.echo_hammer_head": "Echo Hammer Head",
+  "item.reinforcement.echo_hammer": "Echo Hammer",
+
+  "effect.reinforcement.disoriented": "Disoriented"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#R#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "reinforcement:reinforced_iron_block"
+    },
+    "R": {
+      "item": "reinforcement:echo_core"
+    }
+  },
+  "result": {
+    "item": "reinforcement:echo_hammer_head",
+    "count": 1
+  }
+}

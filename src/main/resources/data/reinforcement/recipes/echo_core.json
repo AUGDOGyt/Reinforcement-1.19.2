@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#r#",
+    "rNr",
+    "#r#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:shulker_shell"
+    },
+    "r": {
+      "item": "reinforcement:echo_ingot"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "reinforcement:echo_core",
+    "count": 1
+  }
+}

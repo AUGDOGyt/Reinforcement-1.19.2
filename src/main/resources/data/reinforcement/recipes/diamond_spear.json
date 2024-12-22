@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "g  ",
+    " R ",
+    "  R"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "reinforcement:reinforced_handle"
+    }
+  },
+  "result": {
+    "item": "reinforcement:diamond_spear",
+    "count": 1
+  }
+}
