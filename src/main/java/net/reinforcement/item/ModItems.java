@@ -162,6 +162,10 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item ECHO_RIFLE_CHASSIS = registerItem("echo_rifle_chassis",
             new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item ECHO_GLAIVE_STAFF = registerItem("echo_glaive_staff",
+            new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item ECHO_GLAIVE_HEAD = registerItem("echo_glaive_head",
+            new Item(new FabricItemSettings().group(ModITemGroup.REINFORCEMENT)));
     public static final Item ECHO_HAMMER = registerItem("echo_hammer",
             new SwordItem(ToolMaterials.NETHERITE, 9, -3.2f,
                     new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
