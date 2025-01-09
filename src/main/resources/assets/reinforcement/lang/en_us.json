@@ -18,6 +18,30 @@
   "item.reinforcement.diamond_mace": "Diamond Mace",
   "item.reinforcement.netherite_mace": "Netherite Mace",
   "item.reinforcement.reinforced_netherite_mace": "Reinforced Netherite Mace",
+  
+  "item.reinforcement.wooden_sickle": "Wooden Sickle",
+  "item.reinforcement.stone_sickle": "Stone Sickle",
+  "item.reinforcement.iron_sickle": "Iron Sickle",
+  "item.reinforcement.gold_sickle": "Gold Sickle",
+  "item.reinforcement.diamond_sickle": "Diamond Sickle",
+  "item.reinforcement.netherite_sickle": "Netherite Sickle",
+  "item.reinforcement.reinforced_netherite_sickle": "Reinforced Netherite Sickle",
+  
+  "item.reinforcement.wooden_hammer_head": "Wooden Hammer Head",
+  "item.reinforcement.stone_hammer_head": "Stone Hammer Head",
+  "item.reinforcement.iron_hammer_head": "Iron Hammer Head",
+  "item.reinforcement.gold_hammer_head": "Gold Hammer Head",
+  "item.reinforcement.diamond_hammer_head": "Diamond Hammer Head",
+  "item.reinforcement.netherite_hammer_head": "Netherite Hammer Head",
+  "item.reinforcement.reinforced_netherite_hammer_head": "Reinforced Netherite Hammer Head",
+  
+  "item.reinforcement.wooden_hammer": "Wooden Hammer",
+  "item.reinforcement.stone_hammer": "Stone Hammer",
+  "item.reinforcement.iron_hammer": "Iron Hammer",
+  "item.reinforcement.gold_hammer": "Gold Hammer",
+  "item.reinforcement.diamond_hammer": "Diamond Hammer",
+  "item.reinforcement.netherite_hammer": "Netherite Hammer",
+  "item.reinforcement.reinforced_netherite_hammer": "Reinforced Netherite Hammer",
 
   "itemGroup.reinforcement.reinforcement": "Reinforcement",
 
@@ -25,11 +49,19 @@
   "item.reinforcement.reinforced_stick": "Reinforced Stick",
   "item.reinforcement.reinforced_handle": "Reinforced Handle",
   "item.reinforcement.reinforced_netherite_ingot": "Reinforced Netherite Ingot",
+  "item.reinforcement.iron_fibre": "Iron Fibre",
+  "item.reinforcement.compressed_diamond": "Compressed Diamond",
 
   "item.reinforcement.echo_ingot": "Echo Ingot",
   "item.reinforcement.echo_core": "Echo Core",
   "item.reinforcement.echo_hammer_head": "Echo Hammer Head",
+  "item.reinforcement.echo_rifle_cooling_chamber": "Echo Rifle Cooling Chamber",
+  "item.reinforcement.echo_rifle_chassis": "Echo Rifle Chassis",
   "item.reinforcement.echo_hammer": "Echo Hammer",
+  "item.reinforcement.echo_glaive": "Echo Glaive",
+  "item.reinforcement.echo_rifle": "Echo Rifle",
 
+  "effect.reinforcement.disoriented": "Disoriented"
+}
   "effect.reinforcement.disoriented": "Disoriented"
 }
