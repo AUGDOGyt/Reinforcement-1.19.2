@@ -79,6 +79,8 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
 
     //vanilla armor
+    public static final Item REINFORCED_NETHERITE_HELMET = registerItem("reinforced_netherite_helmet",
+            new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
 
     //sickles
     public static final Item WOODEN_SICKLE = registerItem("wooden_sickle",
