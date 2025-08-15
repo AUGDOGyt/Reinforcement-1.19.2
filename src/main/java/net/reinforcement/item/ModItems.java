@@ -81,6 +81,12 @@ public class ModItems {
     //vanilla armor
     public static final Item REINFORCED_NETHERITE_HELMET = registerItem("reinforced_netherite_helmet",
             new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item REINFORCED_NETHERITE_CHESTPLATE = registerItem("reinforced_netherite_chestplate",
+            new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item REINFORCED_NETHERITE_LEGGINGS = registerItem("reinforced_netherite_leggings",
+            new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item REINFORCED_NETHERITE_BOOTS = registerItem("reinforced_netherite_boots",
+            new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
 
     //sickles
     public static final Item WOODEN_SICKLE = registerItem("wooden_sickle",
@@ -137,7 +143,7 @@ public class ModItems {
                 new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         public static final Item REINFORCED_NETHERITE_HAMMER_HEAD = registerItem("reinforced_netherite_hammer_head",
                 new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
-        //hammers
+        //hammers complete
         public static final Item WOODEN_HAMMER = registerItem("wooden_hammer",
                 new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         public static final Item STONE_HAMMER = registerItem("stone_hammer",
@@ -153,7 +159,7 @@ public class ModItems {
         public static final Item REINFORCED_NETHERITE_HAMMER = registerItem("reinforced_netherite_hammer",
                 new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
 
-    //echo
+    /*echo
     public static final Item ECHO_INGOT = registerItem("echo_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item ECHO_CORE = registerItem("echo_core",
@@ -176,7 +182,7 @@ public class ModItems {
                     new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item ECHO_RIFLE = registerItem("echo_rifle",
             new BowItem(ToolMaterials.NETHERITE, 10, -4.5f,
-                    new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+                    new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));*/
 
     public static  void registerModItems() {
 

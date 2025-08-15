@@ -52,16 +52,7 @@
   "item.reinforcement.iron_fibre": "Iron Fibre",
   "item.reinforcement.compressed_diamond": "Compressed Diamond",
 
-  "item.reinforcement.echo_ingot": "Echo Ingot",
-  "item.reinforcement.echo_core": "Echo Core",
-  "item.reinforcement.echo_hammer_head": "Echo Hammer Head",
-  "item.reinforcement.echo_rifle_cooling_chamber": "Echo Rifle Cooling Chamber",
-  "item.reinforcement.echo_rifle_chassis": "Echo Rifle Chassis",
-  "item.reinforcement.echo_hammer": "Echo Hammer",
-  "item.reinforcement.echo_glaive": "Echo Glaive",
-  "item.reinforcement.echo_rifle": "Echo Rifle",
 
   "effect.reinforcement.disoriented": "Disoriented"
 }
-  "effect.reinforcement.disoriented": "Disoriented"
-}
+
