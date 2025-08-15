@@ -52,6 +52,11 @@
   "item.reinforcement.iron_fibre": "Iron Fibre",
   "item.reinforcement.compressed_diamond": "Compressed Diamond",
 
+  "item.reinforcement.reinforced_netherite_helmet": "Reinforced Netherite Helmet",
+  "item.reinforcement.reinforced_netherite_chestplate": "Reinforced Netherite Chestplate",
+  "item.reinforcement.reinforced_netherite_leggings": "Reinforced Netherite Leggings",
+  "item.reinforcement.reinforced_netherite_boots": "Reinforced Netherite Boots",
+
 
   "effect.reinforcement.disoriented": "Disoriented"
 }
