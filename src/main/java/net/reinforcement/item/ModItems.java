@@ -99,7 +99,7 @@ public class ModItems {
             new SwordItem(ToolMaterials.IRON, 4, -2.7f,
                 new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item GOLD_SICKLE = registerItem("gold_sickle",
-            new SwordItem(ToolMaterials.GOLD, 3, -2.7f,
+            new SwordItem(ToolMaterials.GOLD, 3, -2.5f,
                 new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item DIAMOND_SICKLE = registerItem("diamond_sickle",
             new SwordItem(ToolMaterials.DIAMOND, 4, -2.7f,
@@ -110,6 +110,29 @@ public class ModItems {
     public static final Item REINFORCED_NETHERITE_SICKLE = registerItem("reinforced_netherite_sickle",
             new SwordItem(ToolMaterials.NETHERITE, 6, -2.7f,
             new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+
+    //scythes
+    public static final Item WOODEN_SCYTHE = registerItem("wooden_scythe",
+        new SwordItem(ToolMaterials.WOOD, 3, -2.2f,
+                new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item STONE_SCYTHE = registerItem("stone_scythe",
+        new SwordItem(ToolMaterials.STONE, 4, -2.2f,
+                new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item IRON_SCYTHE = registerItem("iron_scythe",
+        new SwordItem(ToolMaterials.IRON, 5, -2.2f,
+                new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item GOLDEN_SCYTHE = registerItem("golden_scythe",
+        new SwordItem(ToolMaterials.GOLD, 4, -2.0f,
+                new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item DIAMOND_SCYTHE = registerItem("diamond_scythe",
+        new SwordItem(ToolMaterials.DIAMOND, 5, -2.2f,
+                new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item NETHERITE_SCYTHE = registerItem("netherite_scythe",
+        new SwordItem(ToolMaterials.NETHERITE, 6, -2.2f,
+                new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+    public static final Item REINFORCED_NETHERITE_SCYTHE = registerItem("reinforced_netherite_scythe",
+        new SwordItem(ToolMaterials.NETHERITE, 8, -2.2f,
+                new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
 
     //maces
     public static final Item IRON_MACE = registerItem("iron_mace",
