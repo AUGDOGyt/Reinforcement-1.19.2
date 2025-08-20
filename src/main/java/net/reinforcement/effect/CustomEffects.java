@@ -10,6 +10,9 @@ import net.reinforcement.Reinforcement;
 public class CustomEffects {
 
     public static StatusEffect DISORIENTED;
+    public static StatusEffect BLEEDING;
+
+    public static StatusEffect registerBleedingEffect
 
     public static StatusEffect registerDisorientedEffect(String name){
         return Registry.register(Registry.STATUS_EFFECT, new Identifier(Reinforcement.MOD_ID, name),
