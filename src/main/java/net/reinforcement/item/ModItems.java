@@ -139,7 +139,7 @@ public class ModItems {
             new SwordItem(ToolMaterials.IRON, 4, -3f,
                     new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item GOLD_MACE = registerItem("gold_mace",
-            new SwordItem(ToolMaterials.GOLD, 2, -3f,
+            new SwordItem(ToolMaterials.GOLD, 2, -2.8f,
                     new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item DIAMOND_MACE = registerItem("diamond_mace",
             new SwordItem(ToolMaterials.DIAMOND, 5, -3f,
@@ -168,19 +168,26 @@ public class ModItems {
                 new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         //hammers complete
         public static final Item WOODEN_HAMMER = registerItem("wooden_hammer",
-                new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+                new SwordItem(ToolMaterials.WOOD, 4, -3.8f,
+                        new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         public static final Item STONE_HAMMER = registerItem("stone_hammer",
-                new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
-        public static final Item GOLDEN_HAMMER = registerItem("golden_hammer",
-                new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+                new SwordItem(ToolMaterials.STONE, 5, -3.8f,
+                        new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         public static final Item IRON_HAMMER = registerItem("iron_hammer",
-                new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+                new SwordItem(ToolMaterials.IRON, 6, -3.8f,
+                        new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+        public static final Item GOLDEN_HAMMER = registerItem("golden_hammer",
+                new SwordItem(ToolMaterials.GOLD, 4, -3.5f,
+                        new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         public static final Item DIAMOND_HAMMER = registerItem("diamond_hammer",
-                new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+                new SwordItem(ToolMaterials.DIAMOND, 7, -3.8f,
+                        new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         public static final Item NETHERITE_HAMMER = registerItem("netherite_hammer",
-                new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+                new SwordItem(ToolMaterials.NETHERITE, 8, -3.8f,
+                        new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
         public static final Item REINFORCED_NETHERITE_HAMMER = registerItem("reinforced_netherite_hammer",
-                new Item(new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
+                new SwordItem(ToolMaterials.NETHERITE, 8, -3.8f,
+                        new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
 
     /*echo
     public static final Item ECHO_INGOT = registerItem("echo_ingot",
