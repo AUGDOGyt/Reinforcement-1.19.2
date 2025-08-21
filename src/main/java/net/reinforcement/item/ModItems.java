@@ -24,7 +24,7 @@ public class ModItems {
 
     //spears
     public static final Item WOODEN_SPEAR = registerItem("wooden_spear",
-            new SwordItem(ToolMaterials.WOOD, 2, -2.7f,
+            new SharpItem(ToolMaterials.WOOD, 2, -2.7f,
                 new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item STONE_SPEAR = registerItem( "stone_spear",
             new SwordItem(ToolMaterials.STONE, 3, -2.7f,
