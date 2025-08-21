@@ -65,7 +65,10 @@
   "item.reinforcement.reinforced_netherite_leggings": "Reinforced Netherite Leggings",
   "item.reinforcement.reinforced_netherite_boots": "Reinforced Netherite Boots",
 
+  "enchantment.reinforcement.frost": "Frost",
 
-  "effect.reinforcement.disoriented": "Disoriented"
+  "effect.reinforcement.disoriented": "Disoriented",
+  "effect.reinforcement.bleeding": "Bleeding"
+
 }
 

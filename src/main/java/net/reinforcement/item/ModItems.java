@@ -27,10 +27,10 @@ public class ModItems {
             new SharpItem(ToolMaterials.WOOD, 2, -2.7f,
                 new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item STONE_SPEAR = registerItem( "stone_spear",
-            new SwordItem(ToolMaterials.STONE, 3, -2.7f,
+            new SharpItem(ToolMaterials.STONE, 3, -2.7f,
                     new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item IRON_SPEAR = registerItem("iron_spear",
-            new SwordItem(ToolMaterials.IRON, 4, -2.7f,
+            new SharpItem(ToolMaterials.IRON, 4, -2.7f,
                 new FabricItemSettings().group(ModItemGroup.REINFORCEMENT)));
     public static final Item GOLD_SPEAR = registerItem("gold_spear",
             new SwordItem(ToolMaterials.GOLD, 3, -2.7f,

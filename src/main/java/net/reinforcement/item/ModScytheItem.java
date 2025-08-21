@@ -15,5 +15,11 @@ public class ModScytheItem extends SwordItem {
     }
 
     @Override
-    public float getMiningSpeedMultiplier(ItemStack stack, BlockState state)
+    public float getMiningSpeedMultiplier(ItemStack stack, BlockState state) {
+        if(state.isOf(Blocks.COBWEB)) {
+            return 15f;
+        } else if (state.isIn(BlockTags.LEAVES)){
+            return 15f;
+        }
+    }
 }
